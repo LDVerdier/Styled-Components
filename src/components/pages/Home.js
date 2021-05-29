@@ -3,7 +3,8 @@ import { PageLayout } from "components/common"
 
 const Home = () => (
   <PageLayout>
-    <div>Home</div>
+    <h1>Home</h1>
+    <p>Blablabla</p>
   </PageLayout>
 )
 
